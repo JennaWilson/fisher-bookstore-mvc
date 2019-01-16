@@ -1,0 +1,14 @@
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/bin/Debug/netcoreapp2.2/fisher.Bookstore.deps.json
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/bin/Debug/netcoreapp2.2/fisher.Bookstore.runtimeconfig.json
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/bin/Debug/netcoreapp2.2/fisher.Bookstore.runtimeconfig.dev.json
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/bin/Debug/netcoreapp2.2/fisher.Bookstore.dll
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/bin/Debug/netcoreapp2.2/fisher.Bookstore.pdb
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.csprojAssemblyReference.cache
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.csproj.CoreCompileInputs.cache
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.RazorAssemblyInfo.cache
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.RazorAssemblyInfo.cs
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.AssemblyInfoInputs.cache
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.AssemblyInfo.cs
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.RazorTargetAssemblyInfo.cache
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.dll
+/Users/jennaleighwilson/Desktop/AMIS 3610/AMIS3610Source/fisher-bookstore-mvc/fisher.Bookstore/obj/Debug/netcoreapp2.2/fisher.Bookstore.pdb
