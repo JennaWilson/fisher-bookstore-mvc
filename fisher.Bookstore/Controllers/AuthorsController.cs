@@ -1,4 +1,5 @@
 using System;
+using fisher.Bookstore.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace fisher.Bookstore.Controllers
@@ -12,8 +13,16 @@ namespace fisher.Bookstore.Controllers
         }
         public IActionResult Featured()
         {
-            return View();
-            return Content("This is the Authors controller's Featured action");
-        }
+            // would normally come from DB
+
+            var featuredAuthor = new Author()
+            {
+                AuthorID = 1,
+                
+                Name = "J.K. Rowling" 
+            };
+
+            return View(featuredAuthor);
+            }
         }
     }
